@@ -1,4 +1,4 @@
-# Hi, I'm Shalmalee 👋
+# Hi, I'm Shalmalee. 
 
 ### Senior Data Scientist | PhD Astrophysics | Melbourne, Australia
 
@@ -6,7 +6,7 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - 🤖 **Financial RAG Pipeline** — LangChain + HuggingFace + FAISS for intelligent document Q&A
 - 🚗 **Automotive Pricing & Forecasting** — XGBoost demand forecasting + price elasticity optimisation
@@ -14,7 +14,7 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **ML & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -47,7 +47,7 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 - **Senior Data Scientist @ Angle Auto Finance** — Predictive pricing models delivering multi-million dollar revenue impact
 - **Data Scientist @ Forecast Global** — Digital twin forecasting improving airport operational efficiency by 20%
@@ -55,7 +55,7 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalmalee-kapse)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shalmalee15)
