@@ -49,9 +49,9 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ##  Experience Highlights
 
-- **Senior Data Scientist @ Angle Auto Finance** — Predictive pricing models delivering multi-million dollar revenue impact
-- **Data Scientist @ Forecast Global** — Digital twin forecasting improving airport operational efficiency by 20%
-- **PhD Researcher @ Macquarie University** — ML classification on Hubble Space Telescope stellar data
+- **Senior Data Scientist @ Angle Auto Finance**: Predictive pricing models delivering multi-million dollar revenue impact
+- **Data Scientist @ Forecast Global**: Digital twin forecasting improving airport operational efficiency by 20%
+- **PhD Researcher @ Macquarie University**: ML classification on Hubble Space Telescope stellar data
 
 ---
 
