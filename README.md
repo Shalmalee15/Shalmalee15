@@ -8,9 +8,9 @@ I build production-ready ML and AI systems that turn complex data into decisions
 
 ##  What I'm Working On
 
-- 🤖 **Financial RAG Pipeline** — LangChain + HuggingFace + FAISS for intelligent document Q&A
-- 🚗 **Automotive Pricing & Forecasting** — XGBoost demand forecasting + price elasticity optimisation
-- 🛍️ **Customer Segmentation** — RFM analysis + K-Means clustering for targeted marketing
+- 🤖 **Financial RAG Pipeline** - LangChain + HuggingFace + FAISS for intelligent document Q&A
+- 🚗 **Automotive Pricing & Forecasting** - XGBoost demand forecasting + price elasticity optimisation
+- 🛍️ **Customer Segmentation** - RFM analysis + K-Means clustering for targeted marketing
 
 ---
 
